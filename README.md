@@ -102,8 +102,4 @@ This project wouldn't be possible without the following:
 
 ---
 
-## Contact
-
-- Manik Maity -[manikmaity010@gmail.com]
-- [My LinkedIn](https://www.linkedin.com/in/manikmaity/)
 
